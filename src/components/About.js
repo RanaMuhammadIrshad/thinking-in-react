@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 const About = () => {
   return (
     <section id="about" className="success">
@@ -42,7 +42,7 @@ const About = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default About
+export default About;
