@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/thinking-in-react/static/js/main.48eb8be5.chunk.js",
+    "main.js.map": "/thinking-in-react/static/js/main.48eb8be5.chunk.js.map",
+    "runtime-main.js": "/thinking-in-react/static/js/runtime-main.6ab0459f.js",
+    "runtime-main.js.map": "/thinking-in-react/static/js/runtime-main.6ab0459f.js.map",
+    "static/js/2.9640c0e7.chunk.js": "/thinking-in-react/static/js/2.9640c0e7.chunk.js",
+    "static/js/2.9640c0e7.chunk.js.map": "/thinking-in-react/static/js/2.9640c0e7.chunk.js.map",
+    "index.html": "/thinking-in-react/index.html",
+    "precache-manifest.4f4937ff23d68c7ffd1546be8f17c76a.js": "/thinking-in-react/precache-manifest.4f4937ff23d68c7ffd1546be8f17c76a.js",
+    "service-worker.js": "/thinking-in-react/service-worker.js",
+    "static/js/2.9640c0e7.chunk.js.LICENSE.txt": "/thinking-in-react/static/js/2.9640c0e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab0459f.js",
+    "static/js/2.9640c0e7.chunk.js",
+    "static/js/main.48eb8be5.chunk.js"
+  ]
+}
